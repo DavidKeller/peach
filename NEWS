@@ -1,0 +1,13 @@
+=========
+News
+=========
+
+1.0.0
+--------------
+ * Added 'Configuration' api
+ * Added 'Hash' api
+ * Added 'List' api
+ * Added 'String' api
+ * Added 'Set' api
+ * Added 'Module' api
+ * Added 'Log' api
